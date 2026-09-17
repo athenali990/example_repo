@@ -1,7 +1,7 @@
 ---
 title: "Simple document"
 author: Athena
-output: html_document
+output: github_document
 ---
 
 I'm an R Markdown document! 
@@ -50,5 +50,6 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
 
 
